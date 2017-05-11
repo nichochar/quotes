@@ -58,3 +58,51 @@ _Eliezer Yudkowsky_
 _Abelson & Sussman, SICP_
 
 --
+
+> Premature optimization is the root of all evil (or at least most of it) in programming.  
+
+_Donald Knuth_
+
+--
+
+> The best lack all conviction, while the worst  
+
+_Are full of passionate intensity.Yeats, The Second Coming_
+
+--
+
+> The key to performance is elegance, not battalions of special cases.  
+
+_Jon Bentley and Doug McIlroy_
+
+--
+
+> However little television you watch, watch less.  
+
+_David McCullough_
+
+--
+
+> Focusing is about saying no.  
+
+_Steve Jobs_
+
+--
+
+> When the enemy is making a false movement we must take good care not to interrupt him.  
+
+_Napoleon_
+
+--
+
+> Don't fear moving slowly. Fear standing still.  
+
+_Chinese proverb_
+
+--
+
+> I think a life properly lived is just learn, learn, learn all the time.  
+
+_Charlie Munger_
+
+--
