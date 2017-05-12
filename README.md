@@ -106,3 +106,9 @@ _Chinese proverb_
 _Charlie Munger_
 
 --
+
+> The most important investment you can make is in yourself.  
+
+_Warren Buffett_
+
+--
