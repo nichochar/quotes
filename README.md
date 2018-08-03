@@ -112,3 +112,9 @@ _Charlie Munger_
 _Warren Buffett_
 
 --
+
+> Do more and more with less and less until eventually you can do everything with nothing.  
+
+_R. Buckminster Fuller_
+
+--
