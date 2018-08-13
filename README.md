@@ -118,3 +118,9 @@ _Warren Buffett_
 _R. Buckminster Fuller_
 
 --
+
+> When I was young, I used to admire intelligent people; as I grow older, I admire kind people.  
+
+_Abraham Joshua Heschel_
+
+--
