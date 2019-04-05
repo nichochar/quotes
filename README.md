@@ -124,3 +124,9 @@ _R. Buckminster Fuller_
 _Abraham Joshua Heschel_
 
 --
+
+> Simple, correct, fast. In that order.  
+
+_Drew DeVault_
+
+--
